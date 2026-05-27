@@ -4,8 +4,6 @@ A Java application that reads graph structure from input text files and determin
 
 ## Author Details
 * **Name**: W.W.Damsath Nadun Perera
-* **Westminster Student ID**: w2152929
-* **IIT Student ID**: 20242091
 
 ## Key Components
 * **Graph**: Custom directed graph representation with adjacency lists, reverse adjacency lists (for sink elimination efficiency), and sink node detection.
